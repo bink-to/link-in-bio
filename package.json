@@ -1,0 +1,28 @@
+{
+  "name": "bink-to-link-in-bio",
+  "version": "1.0.0",
+  "description": "Link In Bio creates a free link in bio page with analytics, tracking, and custom branding",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "link-in-bio",
+    "bio-link",
+    "linktree",
+    "social-media",
+    "instagram",
+    "tiktok",
+    "marketing",
+    "analytics",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Bink",
+  "license": "ISC",
+  "homepage": "https://bink.to",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bink-to/link-in-bio.git"
+  }
+}
